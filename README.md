@@ -1,2 +1,1 @@
-# hello-world
-This repository is for practicing simple github flow
+I am an AI engineer.
